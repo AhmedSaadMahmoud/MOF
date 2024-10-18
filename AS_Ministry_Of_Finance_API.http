@@ -1,0 +1,6 @@
+@AS_Ministry_Of_Finance_API_HostAddress = http://localhost:5169
+
+GET {{AS_Ministry_Of_Finance_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
